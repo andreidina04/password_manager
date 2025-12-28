@@ -50,14 +50,13 @@ Passwords are stored locally in my_passwords.txt.
 
 ## 🧠 What I Learned
 
-During the development of this CLI Password Manager, I gained hands-on experience with:
-Python file handling – reading, writing, and managing local files safely.
-Data encryption – using Fernet to securely encrypt and decrypt sensitive information.
-User authentication – implementing a PIN system with SHA-256 hashing to protect access.
-Error handling and input validation – ensuring the program handles edge cases like empty files, invalid inputs, or forbidden characters.
-Modular code structure – separating functionality into modules (main.py, pin.py, generate_key.py) for better readability and maintainability.
-CLI application design – creating a user-friendly command-line interface with menus and prompts.
-Security best practices – understanding the difference between encryption keys and authentication, and protecting sensitive files from being exposed.
+📂 Python file handling – reading, writing, and managing local files safely
+🔐 Data encryption – using Fernet to securely encrypt and decrypt sensitive information
+🛡️ User authentication – implementing a PIN system with SHA-256 hashing
+⚠️ Error handling and input validation – handling empty files, invalid inputs, and forbidden characters
+🧩 Modular code structure – separating functionality into modules (main.py, pin.py, generate_key.py)
+💻 CLI application design – creating a user-friendly command-line interface with menus and prompts
+🔒 Security best practices – understanding the difference between encryption keys and authentication, and protecting sensitive files
 
 ## 📝 Usage
 <img width="462" height="339" alt="image" src="https://github.com/user-attachments/assets/9ad356ab-b156-4ace-bb13-fe991180d100" />

@@ -58,7 +58,12 @@ Passwords are stored locally in my_passwords.txt.
 💻 CLI application design – creating a user-friendly command-line interface with menus and prompts
 🔒 Security best practices – understanding the difference between encryption keys and authentication, and protecting sensitive files
 
-## 📝 Usage
+## 📝 Usage - Before
 <img width="462" height="339" alt="image" src="https://github.com/user-attachments/assets/9ad356ab-b156-4ace-bb13-fe991180d100" />
 <img width="1056" height="117" alt="image" src="https://github.com/user-attachments/assets/eebc1701-e82a-4706-9015-ab09e94b1dcb" />
+
+## 📝 Usage - After (Still in work)
+
+<img width="533" height="555" alt="image" src="https://github.com/user-attachments/assets/406660b9-57fc-4a57-ac07-9a8a4756f308" />
+<img width="502" height="530" alt="image" src="https://github.com/user-attachments/assets/4eb1b5b8-943d-4736-abc2-15579d912be4" />
 

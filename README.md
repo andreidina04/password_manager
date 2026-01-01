@@ -19,6 +19,7 @@ Store, view, and manage your passwords locally with **Fernet encryption** and **
 🔹 Delete passwords
 🔹 Change PIN
 🔹 Search functionality
+🔹 Migrate storage to a database (SQLite)
 
 ---
 

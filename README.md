@@ -1,4 +1,4 @@
-# 🛡️ CLI Password Manager
+# 🛡️ Python Password Manager (GUI)
 
 A **secure and user-friendly command-line password manager** written in Python.  
 Store, view, and manage your passwords locally with **Fernet encryption** and **PIN-based authentication**.

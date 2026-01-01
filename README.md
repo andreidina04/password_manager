@@ -19,8 +19,6 @@ Store, view, and manage your passwords locally with **Fernet encryption** and **
 🔹 Delete passwords
 🔹 Change PIN
 🔹 Search functionality
-🔹 GUI interface (Tkinter or CTkinter) ✅
-🔹 Limit incorrect PIN attempts ✅
 
 ---
 
